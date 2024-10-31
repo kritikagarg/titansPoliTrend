@@ -33,7 +33,7 @@ This project focuses on performing topic modeling on recent Twitter data related
 3. Train the BERTopic model to identify topics and display the results, including unique IDs and top words for each topic.
 
 ## Results
-The output will consist of identified topics with corresponding unique IDs and the top descriptive words, providing insights into public sentiment and discourse related to the 2024 US election.
+The output will consist of identified topics providing insights into public sentiment related to the 2024 US election.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
