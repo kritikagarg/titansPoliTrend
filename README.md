@@ -10,7 +10,7 @@ This project focuses on performing topic modeling on recent Twitter data related
   - `keybert`
   - `bertopic`
   - `llama_cpp`
-
+```
 ## Setup
 1. **Download Pretrained LLMs**: 
    - Download the following files from Hugging Face:
@@ -25,7 +25,7 @@ This project focuses on performing topic modeling on recent Twitter data related
 3. **Models Used**:
    - **KeyBERT**: Fast keyword extraction model for identifying relevant keywords from the data.
    - **LlamaCPP**: Utilizes the quantized LLM to generate contextually relevant responses based on the input data.
-
+```
 ## Process
 1. Segment the dataset into three categories based on sentiment analysis.
 2. Define prompts for the LLMs to generate responses using placeholders for documents and keywords.
