@@ -1,4 +1,4 @@
-# Topic Modeling of Twitter Data on the 2024 US Presidential Election
+# Tracking Political Trends Around US Presidential Election
 
 ## Overview
 This project focuses on performing topic modeling on recent Twitter data related to the 2024 US election. By leveraging pretrained large language models (LLMs) and advanced techniques, we aim to identify and analyze trending topics while contextualizing them within public sentiment.
