@@ -27,13 +27,4 @@ This project focuses on performing topic modeling on recent Twitter data related
    - **LlamaCPP**: Utilizes the quantized LLM to generate contextually relevant responses based on the input data.
 -->
 
-## Process
-1. Segment the dataset into three categories based on sentiment analysis.
-2. Define prompts for the LLMs to generate responses using placeholders for documents and keywords.
-3. Train the BERTopic model to identify topics and display the results, including unique IDs and top words for each topic.
 
-## Results
-The output will consist of identified topics providing insights into public sentiment related to the 2024 US election.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
